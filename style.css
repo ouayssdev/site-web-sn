@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+*{
+
+    background-color: rgb(13, 5, 20);
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    color: rgb(67, 67, 255);
+}
+
+a:hover{
+    color: aqua;
+    transition: .3s;
+}
+
+img{
+    border-radius: 5%;
+}
